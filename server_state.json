@@ -1,0 +1,1280 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "originalUrl": "https://shopee.co.th/product/12345/987654",
+      "affiliateUrl": "https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+      "price": "฿299",
+      "category": "เครื่องใช้ไฟฟ้าขนาดเล็ก",
+      "imageUrl": "https://images.unsplash.com/photo-1618944847023-38aa001275ff?w=400&auto=format&fit=crop&q=60",
+      "rating": 4.9
+    },
+    {
+      "id": "p2",
+      "name": "เครื่องตัดขุยผ้าไฟฟ้าอัจฉริยะ คืนชีพเสื้อตัวโปรดใน 3 วินาที",
+      "originalUrl": "https://shopee.co.th/product/43210/111222",
+      "affiliateUrl": "https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F43210%2F111222&partner=15324930078",
+      "price": "฿189",
+      "category": "ของใช้ในบ้าน",
+      "imageUrl": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=400&auto=format&fit=crop&q=60",
+      "rating": 4.8
+    }
+  ],
+  "characters": [
+    {
+      "id": "char_1",
+      "name": "สมชาย (Somchai)",
+      "age": "32 ปี",
+      "gender": "ชาย (Male)",
+      "description": "หนุ่มออฟฟิศจอมซุ่มซ่าม ขี้ตกใจ หน้าตาตลกแต่จริงใจ มีปัญหาสารพัดเรื่องในชีวิตประจำวัน",
+      "attire": "เสื้อโปโลสีเหลืองสดใส กางเกงสแล็กสีดำ",
+      "referencePrompt": "A close-up high-quality portrait of Somchai, a 32-year-old Thai salaryman with expressive comically worried face, tidy black hair, wearing a vibrant yellow polo shirt, studio cinematic light, hyper-stable facial features, 1:1 aspect ratio.",
+      "referenceImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "char_2",
+      "name": "พลอย (Ploy)",
+      "age": "26 ปี",
+      "gender": "หญิง (Female)",
+      "description": "บิวตี้บล็อกเกอร์สาวสายหรูหรา รักความเป๊ะ ทนเห็นอะไรสกปรกหรือมีขุยไม่ได้แม้แต่นิดเดียว",
+      "attire": "เสื้อคาร์ดิแกนถักสีชมพูพาสเทล ต่างหูมุกหรู",
+      "referencePrompt": "A close-up premium portrait of Ploy, a 26-year-old stylish Thai woman with sleek long black hair, perfect makeup, carrying an elegant annoyed expression, wearing a pastel pink cardigan, soft professional studio lighting, 1:1 aspect ratio.",
+      "referenceImageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=60"
+    }
+  ],
+  "scripts": [
+    {
+      "id": "script_1784119365424",
+      "title": "พายุเข้าบางกอก? ที่แท้ลมจากตัวช่วยสุดจิ๋ว!",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "ภาพเหมือนสมชายกำลังเผชิญพายุไต้ฝุ่นถล่มกรุงเทพฯ จนหน้าสั่นพั่บๆ แต่พอซูมออก ที่แท้ไม่ได้มีพายุอะไรเลย แต่เป็นเพราะเขากำลังใช้พัดลมพกพามินิเทอร์โบชาร์จจ่อหน้าตัวเองอยู่ที่ระดับ 100 ต่างหาก!",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Close-up on Somchai (32, clumsy office worker, bright yellow polo shirt). He is walking under the scorching Bangkok sun, sweating profusely, looking absolutely miserable and about to faint.",
+          "stableImagePrompt": "A 32-year-old clumsy Thai office man named Somchai with short black hair, wearing a bright yellow polo shirt and black slacks. He is sweating profusely under the blazing sun, extremely hot, miserable facial expression, busy Bangkok street background, cinematic lighting, photorealistic --ar 9:16 --v 6.0",
+          "voiceover": "ร้อนระเบิดระเบ้อ! ร้อนจนวิญญาณจะออกจากร่างแล้วครับพี่น้อง!",
+          "soundEffect": "Harsh sizzling sun heat sound, slow dramatic synth rise, heavy breathing.",
+          "subtitle": "ร้อนขนาดนี้... นึกว่าซ้อมตกนรก!",
+          "duration": 6,
+          "id": "scene_1784119365424_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_62/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Dramatic shift. Somchai's face is heavily distorted by an extremely powerful gust of wind, his hair is pushed back completely, and he is desperately clinging to a street signpost as if a hurricane is hitting him.",
+          "stableImagePrompt": "Cinematic shot of Somchai (32-year-old Thai office man, bright yellow polo shirt, black slacks) holding onto a street signpost as a massive windstorm blows his hair and face back wildly, debris flying in background, chaotic dramatic scene, photorealistic --ar 9:16 --v 6.0",
+          "voiceover": "เฮ้ย! จู่ๆ พายุไต้ฝุ่นก็เข้าเมืองไทยเหรอวะเนี่ย!? ลมแรงเกิ๊นนน!",
+          "soundEffect": "Loud howling windstorm sound effect, dramatic action movie brass hit.",
+          "subtitle": "จู่ๆ พายุเข้าเฉย! ลมแรงจนหน้าสั่น!",
+          "duration": 7,
+          "id": "scene_1784119365424_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_85/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Camera pans out to reveal the background is actually perfectly calm and sunny. No storm. Somchai is just holding a tiny, sleek handheld mini fan pointed directly at his face, creating the massive wind jet himself.",
+          "stableImagePrompt": "Medium shot of Somchai (32, bright yellow polo shirt) standing on a calm Bangkok street. He is holding a small, high-tech, sleek handheld mini fan close to his face. The fan is blowing an incredibly powerful jet of air directly at his face, making his hair fly back. No actual storm around him. Funny realization look on his face. --ar 9:16 --v 6.0",
+          "voiceover": "อ้าว ไม่ใช่พายุรึ! ที่แท้ก็ลมจากเจ้าจิ๋วในมือผมนี่เอง!",
+          "soundEffect": "Funny record scratch, followed by a powerful, futuristic mini-jet engine whirring sound.",
+          "subtitle": "ที่แท้... ไม่ใช่พายุธรรมชาติ!",
+          "duration": 6,
+          "id": "scene_1784119365424_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_79/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Somchai smiles happily, holding the mini turbo fan up to show the digital screen reading '100'. He winks at the camera, gesturing towards the link below. Price tag of 299 Baht pops up.",
+          "stableImagePrompt": "Close-up of Somchai (32, bright yellow polo shirt) smiling happily, holding up a sleek, modern mini portable fan. The fan has a small digital screen showing '100'. Clean studio-like street lighting, commercial vibe, holding product proudly. --ar 9:16 --v 6.0",
+          "voiceover": "พัดลมพกพามินิ เทอร์โบชาร์จ แรงสะใจ 100 ระดับ! เย็นเหมือนพายุเข้าส่วนตัว แค่ 299 บาท! จิ้มพิกัดที่คอมเมนต์เลยครับ!",
+          "soundEffect": "Happy upbeat energetic commercial music, cash register 'cha-ching' sound.",
+          "subtitle": "พัดลมมินิเทอร์โบ 100 ระดับ แค่ 299.- จิ้มพิกัดที่คอมเมนต์เลย!",
+          "duration": 7,
+          "id": "scene_1784119365424_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_16/450/800"
+        }
+      ],
+      "captions": "นึกว่าพายุเข้ากรุงเทพฯ ที่ไหนได้... ลมจากพัดลมมินิเทอร์โบชาร์จของพี่สมชายนี่เอง! 🤣 ปรับแรงสะใจได้ถึง 100 ระดับ ร้อนแค่ไหนก็เอาอยู่ พกพาง่าย ดับร้อนได้ทันใจในราคาแค่ 299 บาทเท่านั้น! 👇👇\n\n📌 ชี้เป้าพัดลมลมแรงทะลุพิกัด จิ้มลิงก์ในคอมเมนต์เลยครับ!",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิเทอร์โบ",
+        "รีวิวของดีบอกต่อ",
+        "สมชายคนซุ่มซ่าม",
+        "ของดีราคาถูก",
+        "ดับร้อน",
+        "ไอเทมหน้าร้อน"
+      ]
+    },
+    {
+      "id": "script_1784118613144",
+      "title": "วินาทีชีวิตของสมชาย กับพลังทำลายล้างระดับ 100",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "ภาพเปิดตัวเหมือนสมชายกำลังเผชิญหน้ากับพายุทอร์นาโดหรือภัยพิบัติร้ายแรงที่ทำให้หน้าตาบิดเบี้ยวและผมปลิวไสวอย่างรุนแรง แต่ความจริงแล้วเขากำลังยืนเปิดพัดลมพกพามินิเทอร์โบชาร์จจ่อหน้าตัวเองกลางตลาดนัดที่ร้อนระอุ",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Close-up on Somchai, a 32-year-old clumsy Thai office worker wearing a bright yellow polo shirt. He is sweating profusely, eyes wide with terror, trembling as if facing a life-or-death crisis. Dramatic low-key cinematic lighting.",
+          "stableImagePrompt": "Close-up of a 32-year-old Thai man with short black hair, wearing a bright yellow polo shirt, sweating heavily, looking extremely terrified and anxious, dramatic cinematic lighting, photorealistic, 8k --ar 9:16",
+          "voiceover": "นี่อาจเป็นวินาทีสุดท้าย... ชีวิตของผมคงต้องจบสิ้นลงตรงนี้แล้ว!",
+          "soundEffect": "Tense cinematic heartbeat thumping and low dramatic drone",
+          "subtitle": "นี่อาจเป็นวินาทีสุดท้าย... ชีวิตผมคงจบสิ้นแล้ว!",
+          "duration": 6,
+          "id": "scene_1784118613144_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_60/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Medium shot of Somchai as an incredibly powerful gust of wind blasts his face directly, forcing his hair completely back, his cheeks vibrating violently from the air pressure, his eyes squinting to stay open.",
+          "stableImagePrompt": "Medium shot of the same 32-year-old Thai man in a bright yellow polo shirt, his hair and face being blasted by an incredibly strong wind, cheeks vibrating, eyes squinting, dramatic wind tunnel effect, photorealistic --ar 9:16 --cref character_face_ref",
+          "voiceover": "มันรุนแรงเกินไป! พลังทำลายล้างนี้... ผมต้านมันไว้ไม่ไหวแล้ววว!",
+          "soundEffect": "Loud, roaring jet-engine-like wind howling",
+          "subtitle": "พลังทำลายล้างมันรุนแรงเกินไป! ต้านไม่ไหวแล้ว!",
+          "duration": 7,
+          "id": "scene_1784118613144_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_96/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Camera zooms out rapidly to reveal a comical twist. Somchai is actually standing peacefully at a hot, crowded Bangkok outdoor food market. He is holding a tiny, sleek handheld mini fan pointed directly at his face, creating the massive wind. Passersby are looking at him with amused smiles.",
+          "stableImagePrompt": "Wide shot of the same Thai man in a yellow polo standing at a hot crowded Bangkok street market, holding a tiny, modern handheld mini fan close to his face, hair blowing wildly from the fan's strong breeze, bystanders smiling, sunny day, comedic scene, photorealistic --ar 9:16 --cref character_face_ref",
+          "voiceover": "เฮ้อ... รอดตาย! ร้อนตับแล่บขนาดนี้ แต่เจอพัดลมจิ๋วเครื่องนี้เข้าไป... เย็นฉ่ำสะใจสุดๆ!",
+          "soundEffect": "Sudden record scratch, followed by bright, cheerful, comedic acoustic music",
+          "subtitle": "อ้าว! ที่แท้ก็ลมจากพัดลมจิ๋วเทอร์โบ! เย็นฉ่ำสุดขีด!",
+          "duration": 7,
+          "id": "scene_1784118613144_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_60/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Close-up of the sleek, modern black handheld turbo fan in Somchai's hand, showing a tiny digital screen displaying the speed level '100'. Somchai winks at the camera with a fresh, windswept hair look.",
+          "stableImagePrompt": "Close-up of a sleek black handheld mini turbo fan with a small LED screen displaying '100', held by the Thai man in a yellow polo shirt, sunny background, clean commercial product shot, photorealistic --ar 9:16",
+          "voiceover": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจปรับได้ถึง 100 ระดับ! ร้อนแค่ไหนก็เอาอยู่ เพียง 299 บาทเท่านั้น! พิกัดลิงก์ในคอมเมนต์เลยครับ!",
+          "soundEffect": "Bright product 'ding' sound, upbeat retail music fades out",
+          "subtitle": "พัดลมพกพามินิ เทอร์โบชาร์จ 100 ระดับ แค่ 299.- พิกัดในคอมเมนต์เลย!",
+          "duration": 8,
+          "id": "scene_1784118613144_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_24/450/800"
+        }
+      ],
+      "captions": "เมื่อสมชายต้องเผชิญหน้ากับพายุระดับ 100 😱 ลมแรงจนหน้าสั่น นึกว่าไม่รอดซะแล้ว! ที่ไหนได้... พกไอเทมลับดับร้อนนี่เอง พัดลมพกพามินิ เทอร์โบชาร์จ แรงสะใจ ปรับได้ถึง 100 ระดับ ขนาดกะทัดรัดแต่พลังลมระดับพายุทอร์นาโด! หน้าร้อนนี้ไม่มีกลัว แค่ 299 บาทเท่านั้น รีบตามไปตำด่วนที่พิกัดในคอมเมนต์เลยครับ! 👇✨",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิเทอร์โบ",
+        "รีวิวของดีบอกต่อ",
+        "คลายร้อน",
+        "สมชายรีวิว",
+        "ของดีราคาถูก",
+        "พัดลม100ระดับ"
+      ]
+    },
+    {
+      "id": "script_1784118597569",
+      "title": "ร้อนจนเกือบขิต แต่รอดได้ด้วยสิ่งนี้!",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "สมชายทำท่าทางเหมือนกำลังจะกดชนวนระเบิดหรือทำเรื่องคอขาดบาดตายกลางป้ายรถเมล์เพราะทนร้อนไม่ไหว แต่พอกดปุ่มลงไปกลับกลายเป็นการเปิดพัดลมพกพาระดับเทอร์โบชาร์จที่ลมแรงสะใจจนหน้าสั่น ช่วยชีวิตเขาจากความร้อนได้อย่างฮาๆ",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Somchai, a 32-year-old clumsy Thai man with short black hair, wearing a bright yellow polo shirt and black slacks, standing at a scorching hot Bangkok bus stop. He is sweating profusely, clutching his chest dramatically, and looking like he is about to collapse from the heat.",
+          "stableImagePrompt": "A 32-year-old clumsy Thai office man named Somchai with short black hair, wearing a bright yellow polo shirt and black slacks, standing at a sunny Bangkok street bus stop. He has an extremely dramatic, sweaty, and exhausted expression, wiping sweat from his forehead. Cinematic lighting, photorealistic, 9:16 aspect ratio.",
+          "voiceover": "ร้อนปานจะแหกอก! ร้อนจนวิญญาณจะหลุดออกจากร่างแล้วครับทุกคน!",
+          "soundEffect": "Sizzling sun heat effect, heavy panting of a tired man.",
+          "subtitle": "ร้อนจนวิญญาณจะหลุดออกจากร่าง!",
+          "duration": 6,
+          "id": "scene_1784118597569_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_19/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Somchai screams in desperation and reaches into his pocket, pulling out a small, sleek black cylindrical device. He holds it like a detonator, looking intense and dramatic as if he is about to do something extreme.",
+          "stableImagePrompt": "Close-up of Somchai, 32yo Thai man in yellow polo, looking terrified and desperate. He is reaching into his pocket and pulling out a small sleek high-tech handheld device, holding it tightly like a detonator. Blurry outdoor background, intense drama expression, photorealistic, 9:16 aspect ratio.",
+          "voiceover": "ไม่ไหวแล้วโว้ย! ขอระเบิดความอึดอัดนี้ออกมาเลยละกัน!",
+          "soundEffect": "Dramatic cinematic bass drop, heartbeat thumping loudly.",
+          "subtitle": "ขอระเบิดมันออกมาเลยละกัน!",
+          "duration": 6,
+          "id": "scene_1784118597569_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_46/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Somchai presses the button on the device. Instantly, an insanely powerful blast of cold wind hits his face. His cheeks are vibrating and blowing back comically, his hair is flying backward, and his face shows absolute, hilarious relief.",
+          "stableImagePrompt": "Extreme close-up of Somchai, 32yo Thai man in yellow polo, facing a massive blast of wind from a small device in his hand. His cheeks are comically vibrating, hair flying completely backward, eyes closed with a hilarious expression of relief and bliss. Wind streaks visible, photorealistic, 9:16 aspect ratio.",
+          "voiceover": "ฟู่ฟ่าาาา! ลมแรงทะลุมิติ นึกว่าโดนพายุไต้ฝุ่นถล่มหน้า! สะใจสุดๆ!",
+          "soundEffect": "Loud jet-engine turbo wind blowing sound, epic brass transition.",
+          "subtitle": "พายุไต้ฝุ่นถล่มหน้าสะใจมาก!",
+          "duration": 6,
+          "id": "scene_1784118597569_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_3/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Somchai is now smiling happily, looking extremely cool and refreshed. He holds the mini turbo fan close to the camera, showing off its modern design. Graphic text of 299 THB appears on screen.",
+          "stableImagePrompt": "Somchai, 32yo Thai man in yellow polo, smiling happily and holding a sleek modern mini handheld turbo fan toward the camera. He looks refreshed and cool, background is a bright sunny city street. Product close-up, photorealistic, 9:16 aspect ratio.",
+          "voiceover": "นี่เลย! พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ! ร้อนแค่ไหนก็เอาอยู่ แค่ 299 บาท จิ้มพิกัดที่คอมเมนต์เลยครับ!",
+          "soundEffect": "Upbeat cheerful pop music, cute ding sound.",
+          "subtitle": "พัดลมเทอร์โบชาร์จ 100 ระดับ แค่ 299.- จิ้มพิกัดที่คอมเมนต์เลย!",
+          "duration": 7,
+          "id": "scene_1784118597569_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_60/450/800"
+        }
+      ],
+      "captions": "เกือบขิตเพราะแดดเมืองไทย! ☀️ แต่งานนี้พี่สมชายรอดได้เพราะพัดลมเทอร์โบชาร์จ ลมแรงสะใจปรับได้ถึง 100 ระดับ! เย็นแรงจนหน้าสั่นในราคาแค่ 299 บาทเท่านั้น! 💨\n\n📌 พิกัดของดีราคาถูก จิ้มลิงก์ในคอมเมนต์ด่วนเลยครับ! 👇\n\n#พัดลมพกพา #พัดลมมินิ #พัดลมเทอร์โบ #ร้อนมาก #รีวิวของดี #สมชายสายฮา #ของมันต้องมี",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิ",
+        "พัดลมเทอร์โบ",
+        "คลายร้อน",
+        "รีวิวเครื่องใช้ไฟฟ้า",
+        "คลิปตลก",
+        "ของดีบอกต่อ"
+      ]
+    },
+    {
+      "id": "script_1784118269375",
+      "title": "เมื่อสมชายปะทะลมพายุ 100 แรงม้ากลางกรุง!",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "นึกว่าสมชายเจอกับลมพายุทอร์นาโดลูกใหญ่พัดถล่มใส่หน้ากลางแดดร้อนจัด แต่จริงๆ แล้วเขากำลังใช้พัดลมพกพามินิ เทอร์โบชาร์จ ที่ปรับลมแรงสะใจได้ถึง 100 ระดับ เป่าหน้าตัวเองเพื่อคลายร้อนอยู่ต่างหาก!",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "A medium shot of Somchai, a 32-year-old clumsy Thai office man with a funny but sincere face, wearing a bright yellow polo shirt and black slacks. He is sweating profusely, looking completely exhausted and about to melt under the burning sun on a busy Bangkok street.",
+          "stableImagePrompt": "A medium shot of a 32-year-old clumsy Thai office man named Somchai, wearing a bright yellow polo shirt and black slacks. He is sweating profusely, looking exhausted and desperate under the burning sun on a hot Bangkok street. Realistic, cinematic lighting, 8k resolution, highly detailed character --cref somchai_face --cw 100",
+          "voiceover": "ร้อน! ร้อนจนจะละลายแล้วครับพี่น้อง! สมชายร้อนจนจะทานไม่ไหวแล้ว!",
+          "soundEffect": "Dramatic blazing sun sizzle sound, faint heartbeat ticking.",
+          "subtitle": "ร้อนขนาดนี้... สมชายจะไม่รอดแล้ว!",
+          "duration": 6,
+          "id": "scene_1784118269375_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_92/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "A close-up dramatic action shot. Somchai's face is suddenly hit by an incredibly powerful blast of wind. His hair is blown straight back violently, his cheeks are flapping and vibrating comically, and his eyes are wide open in absolute shock and ecstasy.",
+          "stableImagePrompt": "Close-up of Somchai, a 32-year-old Thai office man in a yellow polo shirt, his face experiencing a powerful blast of wind. His hair is blown straight back, cheeks vibrating in a comical way, eyes wide with dramatic shock and delight. High action shot, cinematic, funny expression --cref somchai_face --cw 100",
+          "voiceover": "และทันใดนั้นเอง! พายุทอร์นาโดระดับพระกาฬก็พัดถล่มเข้าหน้าเขาอย่างจัง!",
+          "soundEffect": "Loud, dramatic jet engine whoosh sound, powerful wind roaring.",
+          "subtitle": "เฮ้ย! ลมพายุทอร์นาโดมาจากไหนเนี่ย?!",
+          "duration": 6,
+          "id": "scene_1784118269375_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_50/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "The camera quickly zooms out to reveal that there is no storm. Somchai is holding a very small, futuristic, and sleek pocket-sized mini fan, pointing it directly at his face, grinning with immense joy. The mini fan has a small digital screen showing the speed '100'.",
+          "stableImagePrompt": "Wide-angle shot of Somchai, 32-year-old Thai man in a yellow polo, standing on the street, holding a tiny, sleek, high-tech mini portable fan in his hand, pointing it at his face. The fan has a small digital display showing the number '100'. He is grinning happily as the powerful wind blows his hair. Cinematic, funny, bright daylight --cref somchai_face --cw 100",
+          "voiceover": "อ้าว! ไม่ใช่พายุธรรมชาติ! แต่เป็น พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ!",
+          "soundEffect": "Funny record scratch sound, followed by a high-tech modern electric fan spinning hum.",
+          "subtitle": "อ้าว! ที่แท้พัดลมมินิ เทอร์โบชาร์จ ปรับได้ 100 ระดับ!",
+          "duration": 6,
+          "id": "scene_1784118269375_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_30/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "A split screen showing a professional close-up product shot of the mini fan with a price tag overlay 'เพียง 299 บาท'. On the other side, Somchai looks perfectly cool, hair styled nicely, giving a confident thumbs-up to the camera and pointing down to the comments.",
+          "stableImagePrompt": "A professional product display of a mini portable turbo fan next to a refreshed, cool-looking Somchai wearing his yellow polo shirt, smiling confidently and pointing down with a thumbs up. Bright, commercial studio lighting, clear product details --cref somchai_face --cw 100",
+          "voiceover": "ตัวแค่นี้แต่เย็นเหมือนเปิดแอร์เคลื่อนที่! ราคาแค่ 299 บาท! ลมแรงแซงพายุขนาดนี้ พิกัดของแท้อยู่ในคอมเมนต์เลยครับ!",
+          "soundEffect": "Bright transition bell sound, followed by upbeat and energetic corporate advertising music.",
+          "subtitle": "เย็นสะใจแค่ 299 บาท! พิกัดของแท้ในคอมเมนต์เลย!",
+          "duration": 7,
+          "id": "scene_1784118269375_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_10/450/800"
+        }
+      ],
+      "captions": "นึกว่าเจอพายุทอร์นาโดถล่มกรุง ที่ไหนได้สมชายพกพายุมินิส่วนตัวมาด้วย! 💨🥵 ร้อนแค่ไหนก็เอาอยู่กับ พัดลมพกพามินิ เทอร์โบชาร์จ ปรับความแรงได้ถึง 100 ระดับ! ตัวเล็กพริกขี้หนูลมแรงสะใจจนหน้าสั่น ในราคาแค่ 299 บาทเท่านั้น! ด่วน! พิกัดของแท้ราคาโปรโมชั่นแปะไว้ให้ในคอมเมนต์แล้วจ้า รีบกดก่อนของหมดนะ! 👇✨\n\n#พัดลมพกพา #พัดลมมินิเทอร์โบ #ร้อนนี้ต้องมี #รีวิวของดีบอกต่อ #สมชายพาทัวร์ #ของดีราคาถูก",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิ",
+        "คลายร้อน",
+        "รีวิวของใช้",
+        "ไอเทมหน้าร้อน",
+        "ของดีราคาถูก",
+        "TikTokป้ายยา"
+      ]
+    },
+    {
+      "id": "script_1784106988003",
+      "title": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "ทุกคนคิดว่าสมชายจะชักอาวุธร้ายแรงออกมาจากกระเป๋าในลิฟต์ที่ร้อนระอุ แต่แท้จริงแล้วมันคือพัดลมพกพามินิเทอร์โบชาร์จที่แรงลมระดับ 100 พัดจนทุกคนหน้าสั่น ปลิวระเบิดความเย็นสะใจ",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Medium shot of Somchai, a 32-year-old Thai office worker in a bright yellow polo shirt and black slacks, standing in a cramped, extremely hot elevator. Sweats are dripping heavily from his funny, miserable face. Other passengers look annoyed and disgusted by the intense heat.",
+          "stableImagePrompt": "A medium shot of a 32-year-old Thai man named Somchai with an expressive comedic face, wearing a bright yellow polo shirt, sweating profusely inside a hot, crowded elevator, cinematic lighting, photorealistic, 8k --cref character_face_ref --ar 9:16",
+          "voiceover": "ร้อนปานจะแหกอก! ลิฟต์ก็แน่น เหงื่อท่วมตัว สมชายทนไม่ไหวแล้ว!",
+          "soundEffect": "Sizzling heat sound effect, heavy panting, crowded elevator background chatter",
+          "subtitle": "ร้อนปานจะแหกอก! สมชายทนไม่ไหวแล้ว!",
+          "duration": 6,
+          "id": "scene_1784106988003_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_92/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Close-up of Somchai's eyes widening in dramatic desperation. He aggressively zips open his backpack and reaches in, looking like he's going to pull out something dangerous. Nearby passengers gasp and shrink back in panic.",
+          "stableImagePrompt": "Close-up of Somchai, a 32-year-old Thai man in a yellow polo shirt, eyes wide open in comedic desperation, reaching quickly into his black backpack, background shows panicked passengers in an elevator, photorealistic, cinematic --cref character_face_ref --ar 9:16",
+          "voiceover": "วินาทีชีวิต! เขาตัดสินใจล้วงอาวุธลับในกระเป๋าขึ้นมา ทุกคนเตรียมวิ่งหนี!",
+          "soundEffect": "Dramatic anime power-up sound, crowd gasping in fear",
+          "subtitle": "วินาทีชีวิต! เขาตัดสินใจล้วงอาวุธลับขึ้นมา!",
+          "duration": 6,
+          "id": "scene_1784106988003_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_92/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Somchai pulls out a tiny, futuristic black handheld fan and presses the button. A massive, hurricane-strength blast of wind hits his face instantly, blowing his hair completely back, flaring his cheeks, and blowing the clothes and hair of all the elevator passengers.",
+          "stableImagePrompt": "Somchai, 32-year-old Thai man in a yellow polo shirt, holding a tiny high-tech black handheld fan, pressing the button, powerful visible wind blast blowing his face and hair back, comedic shocked expression, photorealistic, motion blur --cref character_face_ref --ar 9:16",
+          "voiceover": "ย๊ากกก! พัดลมมินิเทอร์โบชาร์จ แรงลมระดับร้อย พัดจนหน้าสั่นสะท้านลิฟต์!",
+          "soundEffect": "Jet engine roar sound, heavy storm wind blowing",
+          "subtitle": "ย๊ากกก! แรงลมระดับ 100 พัดจนหน้าสั่น!",
+          "duration": 6,
+          "id": "scene_1784106988003_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_63/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Close-up of Somchai looking extremely refreshed, cool, and handsome with his hair styled perfectly backward. He holds up the sleek mini fan next to his face with a confident wink. Promo text overlay showing '299.-' and product details.",
+          "stableImagePrompt": "Somchai, 32-year-old Thai man in a yellow polo shirt, looking cool and refreshed, hair stylishly swept back, holding a small high-tech black mini fan next to his face, smiling with confidence, bright studio lighting, photorealistic --cref character_face_ref --ar 9:16",
+          "voiceover": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรง 100 ระดับ แค่ 299 บาท! ดับร้อนทันใจ พิกัดในคอมเมนต์เลยครับ!",
+          "soundEffect": "Bright transition bell, cheerful energetic upbeat pop music",
+          "subtitle": "พัดลมมินิเทอร์โบชาร์จ 299.- พิกัดใต้คอมเมนต์เลย!",
+          "duration": 7,
+          "id": "scene_1784106988003_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_39/450/800"
+        }
+      ],
+      "captions": "นึกว่าจะเกิดเรื่องใหญ่ ที่ไหนได้... เย็นจนหน้าสั่น! 🥶💨 สมชายขอป้ายยาพัดลมพกพามินิ เทอร์โบชาร์จ แรงสะใจปรับได้ถึง 100 ระดับ! พกไปไหนก็รอด ร้อนแค่ไหนก็เอาอยู่ ในราคาแค่ 299 บาทเท่านั้น! 👇 พิกัดของแท้ราคาดีที่สุด แปะไว้ให้ที่คอมเมนต์แล้วนะ รีบไปตำก่อนของหมด! 👇",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิ",
+        "พัดลมพกพามินิเทอร์โบ",
+        "รีวิวของดีบอกต่อ",
+        "ของดีราคาถูก",
+        "สมชายสายฮา",
+        "คลายร้อน"
+      ]
+    },
+    {
+      "id": "script_1784028056282",
+      "title": "วิกฤตเกือบขิตกลางแดดเมืองไทย!",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "คนนึกว่าสมชายกำลังจะหัวใจวายเพราะแดดเมืองไทยที่ร้อนระอุ แต่จริงๆ แล้วเขาแค่ดราม่าควักพัดลมเทอร์โบพกพาออกมาระเบิดลมเย็นใส่หน้าเอาตัวรอดได้อย่างสุดฮา",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Medium shot of Somchai (32, funny face, bright yellow polo shirt) sweating heavily under scorching sunlight on a Bangkok street, clutching his chest and looking like he is about to collapse.",
+          "stableImagePrompt": "Cinematic medium shot of a 32-year-old Thai office man Somchai, clumsy look, funny expressive face, wearing a bright yellow polo shirt, sweating profusely, holding his chest dramatically on a hot, sunny Bangkok street, 8k resolution, photorealistic, cinematic lighting, --cref somchai_face_ref --ar 9:16",
+          "voiceover": "ช่วยด้วย... ลมจับ! ร้อนจนหัวใจจะหยุดเต้นแล้วครับทุกคน!",
+          "soundEffect": "Dramatic heartbeat ticking, blazing hot sun buzzing sound",
+          "subtitle": "ช่วยด้วย! ร้อนจนจะขิตแล้ว!",
+          "duration": 6,
+          "id": "scene_1784028056282_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_81/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Close-up of Somchai trembling, eyes wide open in shock, sweating like a waterfall, dramatically falling down to his knees.",
+          "stableImagePrompt": "Close-up of Somchai, 32yo Thai office man, sweating heavily, eyes wide with dramatic panic, falling to his knees on the pavement, yellow polo shirt, cinematic motion blur, realistic, 8k --cref somchai_face_ref --ar 9:16",
+          "voiceover": "ไม่ไหวแล้ว... โลกกำลังจะดับ! ขอร้องล่ะ... ยาอยู่ไหน!",
+          "soundEffect": "High pitch ringing sound, dramatic movie trailer boom",
+          "subtitle": "โลกหมุนไปหมดแล้ว ยาอยู่ไหน?!",
+          "duration": 6,
+          "id": "scene_1784028056282_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_17/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Somchai violently pulls a tiny black device out of his bag, presses a button, and suddenly a massive, hurricane-like wind blasts his face, blowing his hair and cheeks back hilariously.",
+          "stableImagePrompt": "Somchai holding a tiny black high-tech mini fan close to his face, powerful wind blowing his hair and face back comically, eyes closed in pure relief, bright yellow polo shirt, high action, cinematic comedy style --cref somchai_face_ref --ar 9:16",
+          "voiceover": "ฟู่! ยาแรงระดับ 100! พัดลมเทอร์โบชาร์จ ลมแรงเหมือนพายุเข้าสะใจสุดๆ!",
+          "soundEffect": "High-speed jet engine fan sound, wind blowing violently",
+          "subtitle": "ฟู่! รอดตายเพราะพัดลมระดับ 100!",
+          "duration": 7,
+          "id": "scene_1784028056282_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_29/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Somchai holds the mini turbo fan, smiling confidently and looking cool and refreshed. Prominent text overlay showing 'เพียง 299 บาท'. He points down to the comment section.",
+          "stableImagePrompt": "Medium shot of Somchai looking cool and refreshed, smiling confidently, holding a sleek black mini portable fan, bright yellow polo shirt, clean background, high quality commercial photo --cref somchai_face_ref --ar 9:16",
+          "voiceover": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ แค่ 299 บาท! ร้อนแค่ไหนก็รอด กดพิกัดในคอมเมนต์เลย!",
+          "soundEffect": "Happy commercial ding sound, upbeat modern BGM",
+          "subtitle": "พัดลมเทอร์โบชาร์จ 299.- พิกัดในคอมเมนต์!",
+          "duration": 7,
+          "id": "scene_1784028056282_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_33/450/800"
+        }
+      ],
+      "captions": "เกือบขิตเพราะแดดเมืองไทย แต่รอดได้เพราะสิ่งนี้! 🥵💨 พัดลมพกพามินิ เทอร์โบชาร์จ ปรับได้ 100 ระดับ ลมแรงจนหน้าสั่น พกง่าย เย็นสะใจในราคาแค่ 299 บาท! พิกัดของแท้อยู่ในคอมเมนต์นะทุกคน 👇\n\n#พัดลมพกพา #พัดลมมินิ #แดดเมืองไทย #ของดีบอกต่อ #รีวิวของถูกและดี #สมชายรีวิว",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิ",
+        "คลายร้อน",
+        "รีวิวของดี",
+        "ของถูกและดี",
+        "คอมเมดี้"
+      ]
+    },
+    {
+      "id": "script_1784025163212",
+      "title": "ร้อนจนจะขิต! แต่กู้ชีพได้ด้วยสิ่งนี้... หักมุมสุดพีก",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "สมชายทำท่าเหมือนจะเปิดอุปกรณ์ระเบิดเวลาหรือกู้ภัยฉุกเฉินระดับโลกเพื่อเอาชีวิตรอด แต่แท้จริงแล้วมันคือการกดเปิดพัดลมพกพามินิเทอร์โบชาร์จระดับ 100 ที่ลมแรงจนหน้าสั่นสะใจ ดับร้อนได้ทันทีในราคาประหยัด",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "A medium close-up shot of Somchai, a 32-year-old Thai clumsy office man with a funny, dramatic expression, sweating profusely, wearing a bright yellow polo shirt, in a warm-lit, stuffy office background. Cinematic lighting, photorealistic.",
+          "stableImagePrompt": "Medium close-up shot of Somchai, a 32-year-old Thai clumsy office man, sweating heavily with a dramatic, exaggerated expression of panic, wearing a bright yellow polo shirt, inside a hot, stuffy office with warm ambient light, highly detailed, photorealistic --ar 9:16 --cref character_face_ref",
+          "voiceover": "ร้อนขนาดนี้... ร่างกายผมกำลังจะละลายแล้ว! ช่วยด้วยครับทุกคน!",
+          "soundEffect": "Heavy panting, sizzling heat waves sound, dramatic low hum",
+          "subtitle": "ร้อนขนาดนี้... ร่างกายผมกำลังจะละลายแล้ว!",
+          "duration": 6,
+          "id": "scene_1784025163212_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_28/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "Somchai dramatically reaches his hand out to grasp a sleek, futuristic-looking black cylindrical device on his desk. He looks determined like a hero in a sci-fi movie saving the world.",
+          "stableImagePrompt": "Close-up of Somchai, 32-year-old Thai office man wearing a bright yellow polo shirt, reaching out intensely to press a digital button on a small, high-tech black cylinder device on an office desk, dramatic action movie lighting --ar 9:16 --cref character_face_ref",
+          "voiceover": "นี่คือหนทางรอดเดียวของชีวิตผม... เตรียมตัวรับแรงกระแทก!",
+          "soundEffect": "Sci-fi energy charging sound, epic cinematic rise",
+          "subtitle": "นี่คือหนทางรอดเดียว... เตรียมรับแรงกระแทก!",
+          "duration": 6,
+          "id": "scene_1784025163212_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_3/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "Extreme close-up of Somchai's face being blasted by incredibly strong wind. His cheeks are vibrating comically, his hair is flying back wildly, holding a tiny portable fan with an LED screen showing '100'.",
+          "stableImagePrompt": "Extreme close-up of Somchai, 32-year-old Thai man in yellow polo shirt, face comically distorted and vibrating from intense wind blast, hair flying back wildly, eyes squinting in joy, holding a tiny sleek handheld fan with a glowing LED screen showing '100', high-speed motion blur --ar 9:16 --cref character_face_ref",
+          "voiceover": "ฟู่ววว! ลมแรงสะใจระดับ 100! นี่มันพัดลมพกพามินิเทอร์โบชาร์จ! ลมแรงเหมือนพายุเข้า!",
+          "soundEffect": "Extremely loud jet engine wind blowing, comical vibrating voice effect",
+          "subtitle": "พัดลมมินิเทอร์โบ ลมแรงระดับ 100! สะใจมาก!",
+          "duration": 6,
+          "id": "scene_1784025163212_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_49/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Somchai looks cool, handsome, and refreshed, winking at the camera while holding the small black fan. Cool blue icy background. Text showing 'พัดลมเทอร์โบ 299.-' with a pointing finger.",
+          "stableImagePrompt": "Medium shot of Somchai, 32-year-old Thai man in yellow polo shirt, looking cool, refreshed and happy, winking at the camera, holding a small black portable fan, cool blue refreshing background, modern graphic overlay --ar 9:16 --cref character_face_ref",
+          "voiceover": "เย็นเจี๊ยบสะใจ พกง่าย ลมแรง 100 ระดับ แค่ 299 บาท! พิกัดลิงก์ในคอมเมนต์เลยครับ!",
+          "soundEffect": "Ding sparkling sound, cheerful upbeat acoustic music",
+          "subtitle": "เย็นสะใจพกพาง่าย แค่ 299.- พิกัดในคอมเมนต์!",
+          "duration": 6,
+          "id": "scene_1784025163212_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_31/450/800"
+        }
+      ],
+      "captions": "เกือบขิตเพราะความร้อน! 🥵 ดีนะที่สมชายมีปุ่มกู้ชีพสุดล้ำตัวนี้ พัดลมพกพามินิเทอร์โบชาร์จ ปรับความแรงได้ถึง 100 ระดับ! แรงสะใจ หน้าสั่น ลมเย็นปะทะหน้าเหมือนอยู่ขั้วโลกเหนือ ❄️ พกพาสะดวก ราคาดีต่อใจแค่ 299.- เท่านั้น! \n\n👉 พิกัดของแท้ลมแรงสะใจ กดที่ลิงก์ในคอมเมนต์ได้เลยครับ! 👇\n\n#พัดลมพกพา #พัดลมมินิเทอร์โบ #พัดลมพกพา100ระดับ #รีวิวของดีบอกต่อ #สมชายรีวิว",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมมินิ",
+        "พัดลมเทอร์โบ",
+        "คลายร้อน",
+        "รีวิวของใช้",
+        "สมชายคนซื่อ"
+      ]
+    },
+    {
+      "id": "script_1784021406649",
+      "title": "พายุเข้าออฟฟิศ?",
+      "productId": "p1",
+      "characterId": "char_1",
+      "twistDescription": "คนดูนึกว่าสมชายกำลังเผชิญพายุทอร์นาโดระดับรุนแรง แต่จริงๆ แล้วเขากำลังเปิดพัดลมพกพาจิ๋วเทอร์โบชาร์จระดับ 100 จ่อหน้าตัวเองอยู่ในออฟฟิศที่แอร์เสีย!",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualDescription": "Medium close-up of Somchai (32yo Thai office man, bright yellow polo shirt). His face is violently distorted by intense wind blowing directly at him, cheeks flapping, hair messy and flying backward. Background is dark and chaotic, mimicking a severe storm.",
+          "stableImagePrompt": "Medium close-up of a 32-year-old clumsy Thai office man named Somchai, wearing a bright yellow polo shirt, his face is funny and terrified, distorted by extremely strong wind blowing directly at him, messy hair flying back, cinematic lighting, dramatic storm background --ar 9:16",
+          "voiceover": "ช่วยด้วยครับทุกคน! พายุระดับสิบกำลังจะพัดผมปลิวแล้ว!",
+          "soundEffect": "Loud howling wind storm, dramatic action music.",
+          "subtitle": "ช่วยด้วยครับ! พายุเข้าหนักมาก!",
+          "duration": 6,
+          "id": "scene_1784021406649_1",
+          "imageUrl": "https://picsum.photos/seed/story_1_40/450/800"
+        },
+        {
+          "sceneNumber": 2,
+          "visualDescription": "A wider shot of Somchai desperately holding onto his office desk. Papers and post-it notes are flying violently around him in the air. He has a hilarious panicked expression, eyes wide open.",
+          "stableImagePrompt": "Wide shot of Somchai, a 32-year-old Thai man in a bright yellow polo shirt and black slacks, desperately holding onto an office desk as papers fly everywhere around him due to a massive windstorm inside a room, funny panicked expression --ar 9:16",
+          "voiceover": "ลมแรงขนาดนี้ บ้านพังยับแน่! ไม่ไหวแล้วจะปลิวแล้ว!",
+          "soundEffect": "Crashing sounds, papers fluttering rapidly, intense wind howling.",
+          "subtitle": "ลมแรงขนาดนี้ ปลิวแน่ๆ!",
+          "duration": 6,
+          "id": "scene_1784021406649_2",
+          "imageUrl": "https://picsum.photos/seed/story_2_59/450/800"
+        },
+        {
+          "sceneNumber": 3,
+          "visualDescription": "The camera quickly zooms out to reveal the truth. Somchai is actually sitting calmly at his office desk. The storm is coming from a tiny, futuristic pocket-sized fan that he is holding right in front of his face. The rest of the office is completely still.",
+          "stableImagePrompt": "Camera zooms out to reveal Somchai, a 32-year-old Thai man in a yellow polo shirt sitting at a quiet office desk, holding a tiny pocket-sized modern mini fan in his hand, blowing strong wind directly onto his own face, funny relief expression, cozy office background --ar 9:16",
+          "voiceover": "อ๋อเปล่าครับ... พายุไม่ได้เข้า แต่ที่ทำงานแอร์เสีย! ดีนะผมมีเครื่องนี้!",
+          "soundEffect": "Record scratch sound effect, wind suddenly stops howling and turns into a high-tech fan whirring hum.",
+          "subtitle": "ที่แท้... แอร์ออฟฟิศเสีย!",
+          "duration": 6,
+          "id": "scene_1784021406649_3",
+          "imageUrl": "https://picsum.photos/seed/story_3_18/450/800"
+        },
+        {
+          "sceneNumber": 4,
+          "visualDescription": "Close-up of Somchai smiling brightly, holding the sleek black portable fan showing the digital LED screen displaying level '100'. He looks refreshed and happy, giving a thumbs up. Big text on screen displays 'ราคา ฿299'.",
+          "stableImagePrompt": "Close-up of a happy 32-year-old Thai man named Somchai in a yellow polo shirt, holding a premium high-tech mini portable fan with a small LED screen showing 100, smiling and giving a thumbs up, bright office lighting, commercial style --ar 9:16",
+          "voiceover": "พัดลมพกพามินิ เทอร์โบชาร์จ ปรับได้ 100 ระดับ ลมแรงสะใจ ดับร้อนทันที แค่ 299 บาท! พิกัดในคอมเมนต์เลยครับ!",
+          "soundEffect": "Uplifting, energetic corporate music, bright 'Ding!' sound when showing the product.",
+          "subtitle": "พัดลมพกพามินิ เทอร์โบชาร์จ แรงสะใจ 100 ระดับ แค่ 299.- ช้อปเลยที่คอมเมนต์!",
+          "duration": 7,
+          "id": "scene_1784021406649_4",
+          "imageUrl": "https://picsum.photos/seed/story_4_53/450/800"
+        }
+      ],
+      "captions": "นึกว่าพายุเข้าที่ไหนได้... แอร์ออฟฟิศเสียจ้าาา! 🥵 ลมแรงสะใจ ปรับได้ถึง 100 ระดับ เย็นฉ่ำสะท้านทรวง พกไปไหนก็รอด ในราคาแค่ 299 บาทเท่านั้น! 👇 รีบกดพิกัดตรงคอมเมนต์ก่อนของจะหมดนะครับ! #พัดลมพกพา #พัดลมมินิ #รีวิวของดีบอกต่อ #สมชายคนซุ่มซ่าม",
+      "tags": [
+        "พัดลมพกพา",
+        "พัดลมเทอร์โบ",
+        "ของดีบอกต่อ",
+        "สมชาย",
+        "รีวิวเครื่องใช้ไฟฟ้า",
+        "ดับร้อน"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task_1784120091592",
+      "scriptTitle": "พายุเข้าบางกอก? ที่แท้ลมจากตัวช่วยสุดจิ๋ว!",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "7:54:51 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841200919640.557011595420838",
+          "timestamp": "7:54:51 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841200936040.6706621841271202",
+          "timestamp": "7:54:53 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841200961030.6342418206431863",
+          "timestamp": "7:54:56 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"พายุเข้าบางกอก? ที่แท้ลมจากตัวช่วยสุดจิ๋ว!\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841200986030.09923065711269985",
+          "timestamp": "7:54:58 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841201016030.06205084001414174",
+          "timestamp": "7:55:01 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841201046040.04164627397622622",
+          "timestamp": "7:55:04 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841201076040.8761855817861367",
+          "timestamp": "7:55:07 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841201106030.5843248284709175",
+          "timestamp": "7:55:10 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784119384364",
+      "scriptTitle": "พายุเข้าบางกอก? ที่แท้ลมจากตัวช่วยสุดจิ๋ว!",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "7:43:04 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841193847480.6373913305804179",
+          "timestamp": "7:43:04 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841193863700.7224957663065429",
+          "timestamp": "7:43:06 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841193893080.5790742485654824",
+          "timestamp": "7:43:09 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"พายุเข้าบางกอก? ที่แท้ลมจากตัวช่วยสุดจิ๋ว!\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841193922960.3193983978320918",
+          "timestamp": "7:43:12 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841193953020.710343317806653",
+          "timestamp": "7:43:15 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841193982960.8767701355030457",
+          "timestamp": "7:43:18 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841194013000.25665775432417925",
+          "timestamp": "7:43:21 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841194033770.3067164865073585",
+          "timestamp": "7:43:23 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784118614994",
+      "scriptTitle": "วินาทีชีวิตของสมชาย กับพลังทำลายล้างระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "7:30:14 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841186156350.5322466777519976",
+          "timestamp": "7:30:15 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841186170040.464323923075566",
+          "timestamp": "7:30:17 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841186195030.21655385205256694",
+          "timestamp": "7:30:19 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"วินาทีชีวิตของสมชาย กับพลังทำลายล้างระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841186222930.7951771002081948",
+          "timestamp": "7:30:22 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841186253050.49287512074774154",
+          "timestamp": "7:30:25 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841186312950.8718166431903419",
+          "timestamp": "7:30:31 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841186343040.42314004118085957",
+          "timestamp": "7:30:34 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784118273314",
+      "scriptTitle": "เมื่อสมชายปะทะลมพายุ 100 แรงม้ากลางกรุง!",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "7:24:33 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841182738140.8931139439131421",
+          "timestamp": "7:24:33 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841182753200.5383599990735696",
+          "timestamp": "7:24:35 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841182778210.335208120124032",
+          "timestamp": "7:24:37 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"เมื่อสมชายปะทะลมพายุ 100 แรงม้ากลางกรุง!\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841182803210.4973167897236138",
+          "timestamp": "7:24:40 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841182833150.11612509018468942",
+          "timestamp": "7:24:43 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841182873030.9930562791075506",
+          "timestamp": "7:24:47 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841182903080.1351185267016014",
+          "timestamp": "7:24:50 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841182933040.9422969766365444",
+          "timestamp": "7:24:53 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784116953185",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "7:02:33 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841169535660.8855439047191804",
+          "timestamp": "7:02:33 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841169551880.5622938267084774",
+          "timestamp": "7:02:35 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841169576940.6298627701772265",
+          "timestamp": "7:02:37 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841169601880.8507600551060764",
+          "timestamp": "7:02:40 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841169633040.5650340539391758",
+          "timestamp": "7:02:43 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841169663050.5970471475059869",
+          "timestamp": "7:02:46 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841169692950.3998936392629433",
+          "timestamp": "7:02:49 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841169723090.7347616024298281",
+          "timestamp": "7:02:52 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784111359912",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "5:29:19 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841113602700.5990312096345994",
+          "timestamp": "5:29:20 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841113619240.2626808142933297",
+          "timestamp": "5:29:21 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841113644230.7869284320453186",
+          "timestamp": "5:29:24 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841113669180.9019382635858918",
+          "timestamp": "5:29:26 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841113699230.26387434070590476",
+          "timestamp": "5:29:29 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841113733120.21674994837450745",
+          "timestamp": "5:29:33 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841113763040.20322051682249143",
+          "timestamp": "5:29:36 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841113793010.9115739979068417",
+          "timestamp": "5:29:39 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784110776475",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "5:19:36 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841107770910.1317762975408714",
+          "timestamp": "5:19:37 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841107784760.8998071336840509",
+          "timestamp": "5:19:38 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841107809870.7362505676185613",
+          "timestamp": "5:19:40 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841107834850.7232287474475438",
+          "timestamp": "5:19:43 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841107873080.958126698201968",
+          "timestamp": "5:19:47 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841107903070.5493981750127156",
+          "timestamp": "5:19:50 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841107962950.1481418698089283",
+          "timestamp": "5:19:56 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784109959020",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "5:05:59 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841099594190.5647531659761821",
+          "timestamp": "5:05:59 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099610280.3431182227190557",
+          "timestamp": "5:06:01 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099635260.10275593693495455",
+          "timestamp": "5:06:03 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099662950.4725145974312305",
+          "timestamp": "5:06:06 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099692990.5628685033630676",
+          "timestamp": "5:06:09 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099723100.2986152558228896",
+          "timestamp": "5:06:12 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099752990.5154448577095644",
+          "timestamp": "5:06:15 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099782950.6360782274938858",
+          "timestamp": "5:06:18 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784109955844",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "5:05:55 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841099562110.5200681564063052",
+          "timestamp": "5:05:56 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099578600.21111654373879774",
+          "timestamp": "5:05:57 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099603620.9693796344372462",
+          "timestamp": "5:06:00 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099628490.49095937937638345",
+          "timestamp": "5:06:02 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099662940.5028101818844578",
+          "timestamp": "5:06:06 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099692990.5324154595333668",
+          "timestamp": "5:06:09 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841099723100.8884467143200947",
+          "timestamp": "5:06:12 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841099752990.043796599097167044",
+          "timestamp": "5:06:15 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    },
+    {
+      "id": "task_1784109338507",
+      "scriptTitle": "นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100",
+      "productName": "พัดลมพกพามินิ เทอร์โบชาร์จ ลมแรงสะใจ 100 ระดับ",
+      "status": "completed",
+      "progress": 100,
+      "currentStep": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+      "logs": [
+        {
+          "id": "log_1",
+          "timestamp": "4:55:38 PM",
+          "step": "Trigger",
+          "message": "เริ่มต้นรันระบบอัตโนมัติ 24 ชม. ด้วยพาร์ทเนอร์ไอดี 15324930078",
+          "type": "info"
+        },
+        {
+          "id": "log_webhook_17841093389140.6622893755062915",
+          "timestamp": "4:55:38 PM",
+          "step": "Make.com Webhook",
+          "message": "✅ ส่งข้อมูลเข้า Webhook สำเร็จ! (สถานะ 200) - ส่งชุดข้อมูลบทละครและพาร์ทเนอร์ไอดีไปรัน Scenario บน Make.com แล้ว",
+          "type": "success"
+        },
+        {
+          "id": "log_17841093405100.06317542497774853",
+          "timestamp": "4:55:40 PM",
+          "step": "Affiliate Linker",
+          "message": "แปลงลิงก์สำเร็จ: https://shope.ee/route?url=https%3A%2F%2Fshopee.co.th%2Fproduct%2F12345%2F987654&partner=15324930078",
+          "type": "success"
+        },
+        {
+          "id": "log_17841093430100.5222453546309007",
+          "timestamp": "4:55:43 PM",
+          "step": "AI Scriptwriter",
+          "message": "ส่งบทพูดภาษาไทยเข้าโมดูลคิดพล็อตหักมุม: \"นาทีชีวิตของสมชาย! อาวุธลับดับร้อนระดับ 100\"",
+          "type": "info"
+        },
+        {
+          "id": "log_17841093455100.10694777518308674",
+          "timestamp": "4:55:45 PM",
+          "step": "Character Lock",
+          "message": "ล็อกใบหน้าตัวละคร สมชาย (Somchai) ผ่านตัวแปรอ้างอิง --cref [URL ภาพต้นแบบ] สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841093485120.28536898187338067",
+          "timestamp": "4:55:48 PM",
+          "step": "Video Generation",
+          "message": "ส่งภาพนิ่งเข้า Runway Gen-3 API สังเคราะห์อนิเมชั่นคลิปฉาก 1-4 สำเร็จเรียบร้อย",
+          "type": "info"
+        },
+        {
+          "id": "log_17841093522940.4142248157931019",
+          "timestamp": "4:55:52 PM",
+          "step": "Audio Synthesis",
+          "message": "ส่งเสียงพากย์เข้า ElevenLabs API บันทึกไฟล์พากย์ไทยด้วยน้ำเสียงตื่นเต้นดึงอารมณ์สำเร็จ",
+          "type": "success"
+        },
+        {
+          "id": "log_17841093552960.3716910168091039",
+          "timestamp": "4:55:55 PM",
+          "step": "Video Compositing",
+          "message": "รวมวิดีโอ, เสียงพากย์, เพลงประกอบ พร้อมเจาะสัดส่วน 9:16 และฝังซับไตเติลบนคลิปด้วย Shotstack CJS",
+          "type": "info"
+        },
+        {
+          "id": "log_17841093582940.12874607654796888",
+          "timestamp": "4:55:58 PM",
+          "step": "Publishing",
+          "message": "อัปโหลดไฟล์ Shorts เข้าสู่ช่อง YouTube สำเร็จ! ใส่แคปชัน และแปะลิงก์พันธมิตรเรียบร้อย",
+          "type": "success"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "shopeePartnerId": "15324930078",
+    "openaiKey": "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",
+    "leonardoKey": "9b483ce70055b5ea4e6599c9ad70c4a5960b3bf35b6cd074569c77a6e7b6aa67",
+    "runwayKey": "key_9aa92ebc39e203cabab3b4c9e429beee536a7b28d0da159da5d9f74288b82187aeeae392f5e5e11f1eb2246b1656203f8d5d4788e05d31cfa0be3378c894cb41",
+    "elevenlabsKey": "9b483ce70055b5ea4e6599c9ad70c4a5960b3bf35b6cd074569c77a6e7b6aa67",
+    "makeWebhookUrl": "https://hook.eu1.make.com/9mwx370sxkc06x54fognqswq7ci1py56",
+    "makeWebhookApiKey": "MySecretKey123456!",
+    "autoPilotEnabled": true,
+    "frequencyHours": 6,
+    "lastKnownAppUrl": "https://ais-pre-4hub5ljlmcayj2gtq26ko5-736728638814.asia-southeast1.run.app"
+  },
+  "lastAutoRunTime": "2026-07-15T09:12:56.752Z"
+}

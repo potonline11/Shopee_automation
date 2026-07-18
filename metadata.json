@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Video Automation Pipeline",
+  "description": "An AI-powered system that searches Shopee products, automatically converts affiliate links, writes dramatic video scripts with twist plots, generates consistent character storyboards, and orchestrates an automated video generation pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
